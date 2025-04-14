@@ -2,7 +2,7 @@
  
 <div align="center">
   <h1>
-  🔢 Site que calcula se um número é Impar ou Par🔢
+  🔢 Site que calcula se um número é Impar ou Par 🔢
   </h1>
   <h3>
    Feito totalmente em HTML, CSS e JS.
